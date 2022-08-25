@@ -1,2 +1,2 @@
 # classifier_accuracy
-How to assess classifier accuracy using unlabeled data
+This repository contains two Colab notebooks. Each as a different model assessing a classifier's accuracy using unlabeled data
