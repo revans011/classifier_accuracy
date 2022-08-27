@@ -1,2 +1,3 @@
 # classifier_accuracy
 This repository contains two Colab notebooks. Each as a different model assessing a classifier's accuracy using unlabeled data
+Medical researchers have solved the problem of estimating the sensitivity and specificity of binary medical diagnostic tests without gold standard tests for comparison. That problem is the same as estimating confusion matrices for classifiers on unlabeled data. These notebooks describe how to modify the diagnostic test solutions to estimate confusion matrices and accuracy statistics for supervised or unsupervised binary classifiers on unlabeled data.
